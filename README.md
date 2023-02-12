@@ -2,6 +2,6 @@
 
 
 ## Third Party
-- [AnimeChan](https://animechan.vercel.app/docs) (API) [MIT]
-- [TailwindCSS](https://tailwindcss.com) & [DaisyUI](https://daisyui.com/) (Styling) [MIT]
-- [Next.js](https://nextjs.org) (Framework) [MIT]
+- [Anime Chan](https://animechan.vercel.app/docs) (MIT)
+- [TailwindCSS](https://tailwindcss.com) & [DaisyUI](https://daisyui.com/) (MIT)
+- [Next.js](https://nextjs.org) (MIT)
