@@ -10,10 +10,6 @@ import Navbar from "@/components/navbar";
 import Footer from "@/components/footer";
 import Content from "@/components/content";
 
-function Looping() {
-	return <h1>Tolol</h1>
-}
-
 
 export default function Index() {
 	return (
